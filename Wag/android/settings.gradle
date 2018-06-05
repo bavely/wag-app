@@ -1,0 +1,3 @@
+rootProject.name = 'Wag'
+
+include ':app'
